@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: JokeAppSpring
+server:
+  port: 8099
+jokes:
+  files:
+    pathToJokeFile: src/main/resources/jokes.json
+  urls:
+    urlAnyJoke: https://v2.jokeapi.dev/joke/Any
+    urlByCategoryJoke: https://v2.jokeapi.dev/joke/

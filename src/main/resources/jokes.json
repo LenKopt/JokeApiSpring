@@ -7,12 +7,12 @@
   {
     "id": "ad30ec60-06fb-43e1-bc79-d1ce8462b2e5",
     "content": "content2",
-    "category": "category2"
+    "category": "christmas"
   },
   {
     "id": "e081c571-ed60-4493-94da-dab6a2a6c80b",
     "content": "content3",
-    "category": "category3"
+    "category": "Christmas"
   },
   {
     "id": "645ec730-f41d-494b-a453-7fed5a17fc7a",
@@ -21,8 +21,8 @@
   },
   {
     "id": "17a94fd1-94f8-4103-935a-68232d1f5d07",
-    "content": "content5",
-    "category": "category5"
+    "content": "Politics",
+    "category": "Politics"
   },
   {
     "id": "99ad7fde-d183-4b1a-aa39-5b56c6de5113",
