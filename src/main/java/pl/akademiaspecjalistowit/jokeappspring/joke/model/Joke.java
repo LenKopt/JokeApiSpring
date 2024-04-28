@@ -1,9 +1,11 @@
 package pl.akademiaspecjalistowit.jokeappspring.joke.model;
 
+import lombok.AllArgsConstructor;
+
 import java.io.Serializable;
 import java.util.Objects;
 import java.util.UUID;
-
+@AllArgsConstructor
 public class Joke implements Serializable {
 
     private UUID id;

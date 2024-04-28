@@ -51,7 +51,6 @@ public class JokeApiProvider implements JokeProvider {
     }
 
     private Joke getResponse(HttpRequest request) {
-
         try {
             HttpResponse<String> response = httpClient.send(
                     request, HttpResponse.BodyHandlers.ofString());
